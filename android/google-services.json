@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446382721139",
+    "firebase_url": "https://kelimeoyunu-e4610.firebaseio.com",
+    "project_id": "kelimeoyunu-e4610",
+    "storage_bucket": "kelimeoyunu-e4610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446382721139:android:22aa546107b67165c88206",
+        "android_client_info": {
+          "package_name": "com.gizemaydin.kelimeoyunu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446382721139-fvdvqiid8clkjgg10g5sjuor4nrkmrra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtoLpMM0ugye4nKCisLh312lrcpjHf1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446382721139-fvdvqiid8clkjgg10g5sjuor4nrkmrra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
